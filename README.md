@@ -1,11 +1,11 @@
-<h1 align="center">DAISYX MUSIC V5.0 🎵</h1>
+<h1 align="center">𝐖𝐨𝐥𝐟 𝐗 V5.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+#### POWERED BY [XPS hacker ](https://github.com/MarshalX/tgcalls)
+### Available on telegram as [@WolfXRobot](https://t.me/WolfXRobot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/8908e6c0412722ad66f17.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
