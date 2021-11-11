@@ -1,7 +1,7 @@
 <h1 align="center">𝐖𝐨𝐥𝐟 𝐗 V5.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [XPS hacker ](https://github.com/MarshalX/tgcalls)
+#### POWERED BY [XPG hacker ](https://github.com/MarshalX/tgcalls)
 ### Available on telegram as [@WolfXRobot](https://t.me/WolfXRobot)
 
 <p align="center">
