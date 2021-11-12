@@ -105,7 +105,7 @@ def map(pos):
                     InlineKeyboardButton(text="💬 Support", url=f"https://t.me/{SUPPORT_GROUP}")
                   ],
                   [
-                    InlineKeyboardButton(text="🛠 Source Code 🛠", url=f"https://{SOURCE_CODE}")
+                    InlineKeyboardButton(text="🛠 MY OWNER 🛠", url=f"https://t.me/HMF_OWNER_1")
                   ],
                   [
                     InlineKeyboardButton(text="◀️", callback_data=f"help+{pos-1}")
