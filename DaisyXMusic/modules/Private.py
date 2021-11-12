@@ -46,7 +46,7 @@ def _start(client, message):
                InlineKeyboardButton("💬 Support", url=f"https://t.me/{SUPPORT_GROUP}")
             ],
             [
-               InlineKeyboardButton("🛠 Source Code 🛠", url=f"https://{SOURCE_CODE}")
+               InlineKeyboardButton("🛠 MY OWNER 🛠", url=f"https://t.me/HMF_OWNER_1")
            ]]
         ),
         reply_to_message_id=message.message_id,
